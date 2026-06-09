@@ -6,3 +6,5 @@ git commit
 git remote -v
 git push
 git remote add origin URL
+git clone
+git stash 
